@@ -1,0 +1,748 @@
+Entity,Year,Deaths
+All natural disasters,1900,1267330
+Drought,1900,1261000
+Extreme weather,1900,6000
+Flood,1900,300
+Volcanic activity,1900,30
+All natural disasters,1901,18
+Earthquake,1901,18
+All natural disasters,1902,46037
+Earthquake,1902,6747
+Extreme weather,1902,600
+Volcanic activity,1902,38690
+All natural disasters,1903,6506
+Earthquake,1903,6000
+Extreme weather,1903,163
+Flood,1903,250
+Mass movement (dry),1903,76
+Volcanic activity,1903,17
+All natural disasters,1904,0
+All natural disasters,1905,22758
+Earthquake,1905,22500
+Extreme weather,1905,240
+Mass movement (dry),1905,18
+All natural disasters,1906,42970
+Earthquake,1906,31966
+Extreme weather,1906,10298
+Flood,1906,6
+Volcanic activity,1906,700
+All natural disasters,1907,25641
+Earthquake,1907,25641
+All natural disasters,1908,75033
+Earthquake,1908,75000
+Mass movement (dry),1908,33
+All natural disasters,1909,11484
+Earthquake,1909,5146
+Extreme weather,1909,713
+Flood,1909,72
+Landslide,1909,53
+Volcanic activity,1909,5500
+All natural disasters,1910,88233
+Drought,1910,85000
+Earthquake,1910,1762
+Extreme weather,1910,30
+Flood,1910,1379
+Mass movement (dry),1910,62
+All natural disasters,1911,102408
+Extreme weather,1911,1000
+Flood,1911,100000
+Volcanic activity,1911,1335
+Wildfire,1911,73
+All natural disasters,1912,52093
+Earthquake,1912,923
+Extreme weather,1912,51170
+All natural disasters,1913,882
+Earthquake,1913,150
+Extreme weather,1913,732
+All natural disasters,1914,289
+Earthquake,1914,149
+Volcanic activity,1914,140
+All natural disasters,1915,32167
+Earthquake,1915,29986
+Extreme weather,1915,2125
+Mass movement (dry),1915,56
+All natural disasters,1916,300
+Extreme weather,1916,300
+All natural disasters,1917,23507
+Earthquake,1917,19450
+Extreme weather,1917,4057
+All natural disasters,1918,11413
+Earthquake,1918,10379
+Extreme weather,1918,34
+Wildfire,1918,1000
+All natural disasters,1919,5500
+Extreme weather,1919,500
+Volcanic activity,1919,5000
+All natural disasters,1920,704224
+Drought,1920,524000
+Earthquake,1920,180000
+Extreme weather,1920,224
+All natural disasters,1921,1200000
+Drought,1921,1200000
+All natural disasters,1922,101243
+Earthquake,1922,1100
+Extreme weather,1922,100000
+Landslide,1922,100
+Wildfire,1922,43
+All natural disasters,1923,155701
+Earthquake,1923,152362
+Extreme weather,1923,3139
+Landslide,1923,200
+All natural disasters,1924,3009
+Earthquake,1924,767
+Extreme weather,1924,2242
+All natural disasters,1925,5832
+Earthquake,1925,5013
+Extreme weather,1925,819
+All natural disasters,1926,4852
+Earthquake,1926,12
+Extreme weather,1926,3568
+Flood,1926,1000
+Landslide,1926,128
+Volcanic activity,1926,144
+All natural disasters,1927,215160
+Earthquake,1927,206142
+Extreme weather,1927,5772
+Flood,1927,3246
+All natural disasters,1928,3004895
+Drought,1928,3000000
+Earthquake,1928,635
+Extreme weather,1928,4224
+Flood,1928,36
+All natural disasters,1929,8377
+Earthquake,1929,3317
+Volcanic activity,1929,5000
+Wildfire,1929,60
+All natural disasters,1930,10572
+Earthquake,1930,5081
+Extreme weather,1930,4082
+Landslide,1930,40
+Volcanic activity,1930,1369
+All natural disasters,1931,3706227
+Earthquake,1931,1537
+Extreme weather,1931,3200
+Flood,1931,3700000
+Landslide,1931,190
+Volcanic activity,1931,1300
+All natural disasters,1932,73280
+Earthquake,1932,70006
+Extreme weather,1932,3244
+Landslide,1932,30
+All natural disasters,1933,34296
+Earthquake,1933,16180
+Extreme weather,1933,63
+Flood,1933,18053
+All natural disasters,1934,21087
+Earthquake,1934,15496
+Extreme weather,1934,5091
+Landslide,1934,500
+All natural disasters,1935,270817
+Earthquake,1935,66110
+Extreme weather,1935,62707
+Flood,1935,142000
+All natural disasters,1936,5301
+Earthquake,1936,26
+Extreme temperature,1936,1693
+Extreme weather,1936,3309
+Flood,1936,200
+Landslide,1936,73
+All natural disasters,1937,12025
+Extreme weather,1937,11231
+Flood,1937,248
+Mass movement (dry),1937,40
+Volcanic activity,1937,506
+All natural disasters,1938,2225
+Earthquake,1938,166
+Extreme weather,1938,905
+Flood,1938,954
+Landslide,1938,200
+All natural disasters,1939,563178
+Earthquake,1939,63094
+Extreme weather,1939,3
+Flood,1939,500010
+Wildfire,1939,71
+All natural disasters,1940,21523
+Drought,1940,20000
+Earthquake,1940,1275
+Extreme weather,1940,123
+Flood,1940,125
+All natural disasters,1941,10195
+Earthquake,1941,189
+Extreme weather,1941,5006
+Landslide,1941,5000
+All natural disasters,1942,1608235
+Drought,1942,1500000
+Earthquake,1942,7235
+Extreme weather,1942,101000
+All natural disasters,1943,1910322
+Drought,1943,1900000
+Earthquake,1943,4332
+Extreme weather,1943,5000
+Flood,1943,990
+All natural disasters,1944,15906
+Earthquake,1944,14984
+Extreme weather,1944,726
+Volcanic activity,1944,26
+Wildfire,1944,170
+All natural disasters,1945,10376
+Earthquake,1945,5961
+Extreme weather,1945,4415
+All natural disasters,1946,35490
+Drought,1946,30000
+Earthquake,1946,5153
+Extreme weather,1946,337
+All natural disasters,1947,7371
+Earthquake,1947,633
+Extreme weather,1947,4738
+Flood,1947,2000
+All natural disasters,1948,120131
+Earthquake,1948,115618
+Extreme weather,1948,2971
+Flood,1948,917
+Landslide,1948,525
+Volcanic activity,1948,100
+All natural disasters,1949,120370
+Earthquake,1949,6486
+Extreme weather,1949,2804
+Flood,1949,97000
+Landslide,1949,12000
+Volcanic activity,1949,2000
+Wildfire,1949,80
+All natural disasters,1950,6728
+Earthquake,1950,1833
+Extreme weather,1950,873
+Flood,1950,3808
+Landslide,1950,130
+Volcanic activity,1950,84
+All natural disasters,1951,15042
+Earthquake,1951,1554
+Extreme temperature,1951,69
+Extreme weather,1951,2861
+Flood,1951,5666
+Landslide,1951,92
+Volcanic activity,1951,4800
+All natural disasters,1952,8965
+Earthquake,1952,2432
+Extreme weather,1952,6277
+Flood,1952,199
+Landslide,1952,28
+Volcanic activity,1952,29
+All natural disasters,1953,12475
+Earthquake,1953,2717
+Extreme temperature,1953,669
+Extreme weather,1953,1814
+Flood,1953,7125
+Volcanic activity,1953,150
+All natural disasters,1954,41872
+Earthquake,1954,3344
+Extreme weather,1954,2969
+Flood,1954,34436
+Landslide,1954,1086
+Volcanic activity,1954,37
+All natural disasters,1955,6026
+Earthquake,1955,959
+Extreme temperature,1955,107
+Extreme weather,1955,3895
+Flood,1955,584
+Landslide,1955,478
+Mass movement (dry),1955,3
+All natural disasters,1956,7737
+Earthquake,1956,763
+Extreme weather,1956,3114
+Flood,1956,3613
+Landslide,1956,236
+Wildfire,1956,11
+All natural disasters,1957,10603
+Earthquake,1957,6993
+Extreme weather,1957,1139
+Flood,1957,2471
+All natural disasters,1958,3950
+Earthquake,1958,227
+Extreme temperature,1958,651
+Extreme weather,1958,2620
+Flood,1958,400
+Landslide,1958,52
+All natural disasters,1959,2013242
+Earthquake,1959,103
+Extreme weather,1959,9695
+Flood,1959,2003396
+Landslide,1959,48
+All natural disasters,1960,39188
+Earthquake,1960,19395
+Extreme weather,1960,9164
+Flood,1960,10577
+Landslide,1960,52
+All natural disasters,1961,17341
+Earthquake,1961,60
+Extreme temperature,1961,400
+Extreme weather,1961,12852
+Flood,1961,3863
+Landslide,1961,166
+All natural disasters,1962,17370
+Earthquake,1962,12209
+Extreme temperature,1962,50
+Extreme weather,1962,1860
+Flood,1962,1180
+Landslide,1962,71
+Mass movement (dry),1962,2000
+All natural disasters,1963,36746
+Earthquake,1963,1700
+Extreme temperature,1963,162
+Extreme weather,1963,29965
+Flood,1963,1031
+Landslide,1963,2033
+Mass movement (dry),1963,150
+Volcanic activity,1963,1705
+All natural disasters,1964,12275
+Drought,1964,50
+Earthquake,1964,335
+Extreme weather,1964,10655
+Flood,1964,1123
+Landslide,1964,108
+Volcanic activity,1964,4
+All natural disasters,1965,1564701
+Drought,1965,1502000
+Earthquake,1965,683
+Extreme temperature,1965,100
+Extreme weather,1965,59932
+Flood,1965,1401
+Landslide,1965,204
+Mass movement (dry),1965,26
+Volcanic activity,1965,355
+All natural disasters,1966,16981
+Drought,1966,8000
+Earthquake,1966,2752
+Extreme temperature,1966,262
+Extreme weather,1966,2327
+Flood,1966,1923
+Landslide,1966,604
+Volcanic activity,1966,1088
+Wildfire,1966,25
+All natural disasters,1967,6966
+Drought,1967,600
+Earthquake,1967,1013
+Extreme weather,1967,2255
+Flood,1967,2446
+Landslide,1967,590
+Wildfire,1967,62
+All natural disasters,1968,21284
+Earthquake,1968,10858
+Extreme temperature,1968,153
+Extreme weather,1968,1669
+Flood,1968,7306
+Landslide,1968,1196
+Volcanic activity,1968,90
+Wildfire,1968,12
+All natural disasters,1969,8167
+Earthquake,1969,3353
+Extreme weather,1969,3252
+Flood,1969,1544
+Landslide,1969,18
+All natural disasters,1970,386568
+Earthquake,1970,78599
+Extreme weather,1970,304495
+Flood,1970,3246
+Landslide,1970,186
+Mass movement (dry),1970,42
+All natural disasters,1971,15773
+Earthquake,1971,1107
+Extreme temperature,1971,400
+Extreme weather,1971,10811
+Flood,1971,2404
+Landslide,1971,1020
+Mass movement (dry),1971,31
+All natural disasters,1972,20010
+Earthquake,1972,15170
+Extreme temperature,1972,110
+Extreme weather,1972,1427
+Flood,1972,2548
+Landslide,1972,755
+All natural disasters,1973,110555
+Drought,1973,100000
+Earthquake,1973,552
+Extreme temperature,1973,283
+Extreme weather,1973,4344
+Flood,1973,1835
+Landslide,1973,3541
+All natural disasters,1974,86004
+Drought,1974,19000
+Earthquake,1974,24808
+Extreme weather,1974,11861
+Flood,1974,29431
+Landslide,1974,904
+All natural disasters,1975,14858
+Earthquake,1975,12632
+Extreme temperature,1975,140
+Extreme weather,1975,1041
+Flood,1975,848
+Landslide,1975,195
+Volcanic activity,1975,2
+All natural disasters,1976,280073
+Earthquake,1976,276994
+Extreme weather,1976,1763
+Flood,1976,960
+Landslide,1976,315
+Volcanic activity,1976,41
+All natural disasters,1977,21222
+Earthquake,1977,3098
+Extreme weather,1977,15298
+Flood,1977,2568
+Landslide,1977,40
+Volcanic activity,1977,215
+Wildfire,1977,3
+All natural disasters,1978,35036
+Drought,1978,63
+Earthquake,1978,25162
+Extreme temperature,1978,150
+Extreme weather,1978,3676
+Flood,1978,5897
+Landslide,1978,86
+Wildfire,1978,2
+All natural disasters,1979,6855
+Drought,1979,18
+Earthquake,1979,2100
+Extreme temperature,1979,470
+Extreme weather,1979,2623
+Flood,1979,1038
+Landslide,1979,338
+Volcanic activity,1979,268
+All natural disasters,1980,21404
+Earthquake,1980,7730
+Extreme temperature,1980,1389
+Extreme weather,1980,1379
+Flood,1980,10466
+Landslide,1980,300
+Mass movement (dry),1980,50
+Volcanic activity,1980,90
+All natural disasters,1981,117200
+Drought,1981,103000
+Earthquake,1981,4206
+Extreme temperature,1981,300
+Extreme weather,1981,3790
+Flood,1981,5283
+Landslide,1981,421
+Volcanic activity,1981,192
+Wildfire,1981,8
+All natural disasters,1982,11061
+Drought,1982,280
+Earthquake,1982,2120
+Extreme temperature,1982,400
+Extreme weather,1982,2782
+Flood,1982,4648
+Landslide,1982,640
+Mass movement (dry),1982,59
+Volcanic activity,1982,130
+Wildfire,1982,2
+All natural disasters,1983,460342
+Drought,1983,450520
+Earthquake,1983,2148
+Extreme temperature,1983,205
+Extreme weather,1983,3656
+Flood,1983,2082
+Landslide,1983,1159
+Mass movement (dry),1983,466
+Wildfire,1983,106
+All natural disasters,1984,9257
+Drought,1984,230
+Earthquake,1984,57
+Extreme temperature,1984,290
+Extreme weather,1984,5468
+Flood,1984,2930
+Landslide,1984,228
+Volcanic activity,1984,37
+Wildfire,1984,17
+All natural disasters,1985,54378
+Earthquake,1985,9853
+Extreme temperature,1985,456
+Extreme weather,1985,17165
+Flood,1985,4376
+Landslide,1985,377
+Mass movement (dry),1985,300
+Volcanic activity,1985,21800
+Wildfire,1985,51
+All natural disasters,1986,7303
+Drought,1986,84
+Earthquake,1986,1181
+Extreme temperature,1986,50
+Extreme weather,1986,1939
+Flood,1986,1782
+Landslide,1986,501
+Volcanic activity,1986,1746
+Wildfire,1986,20
+All natural disasters,1987,18941
+Drought,1987,1317
+Earthquake,1987,5160
+Extreme temperature,1987,1220
+Extreme weather,1987,2900
+Flood,1987,6766
+Landslide,1987,1204
+Mass movement (dry),1987,183
+Wildfire,1987,191
+All natural disasters,1988,42248
+Drought,1988,1600
+Earthquake,1988,27049
+Extreme temperature,1988,644
+Extreme weather,1988,3335
+Flood,1988,8504
+Landslide,1988,952
+Mass movement (dry),1988,157
+Volcanic activity,1988,7
+All natural disasters,1989,10741
+Drought,1989,237
+Earthquake,1989,650
+Extreme temperature,1989,381
+Extreme weather,1989,4256
+Flood,1989,4716
+Landslide,1989,445
+Mass movement (dry),1989,55
+Wildfire,1989,1
+All natural disasters,1990,50934
+Earthquake,1990,42853
+Extreme temperature,1990,979
+Extreme weather,1990,4604
+Flood,1990,2251
+Landslide,1990,98
+Mass movement (dry),1990,116
+Volcanic activity,1990,33
+All natural disasters,1991,159025
+Drought,1991,2000
+Earthquake,1991,2454
+Extreme temperature,1991,835
+Extreme weather,1991,146297
+Flood,1991,5852
+Landslide,1991,728
+Mass movement (dry),1991,86
+Volcanic activity,1991,683
+Wildfire,1991,90
+All natural disasters,1992,12236
+Earthquake,1992,4033
+Extreme temperature,1992,388
+Extreme weather,1992,1342
+Flood,1992,5315
+Landslide,1992,712
+Mass movement (dry),1992,323
+Volcanic activity,1992,1
+Wildfire,1992,122
+All natural disasters,1993,21170
+Earthquake,1993,10088
+Extreme temperature,1993,106
+Extreme weather,1993,2965
+Flood,1993,6150
+Landslide,1993,1418
+Mass movement (dry),1993,341
+Volcanic activity,1993,99
+Wildfire,1993,3
+All natural disasters,1994,13085
+Earthquake,1994,1242
+Extreme temperature,1994,341
+Extreme weather,1994,4239
+Flood,1994,6771
+Landslide,1994,307
+Volcanic activity,1994,101
+Wildfire,1994,84
+All natural disasters,1995,22738
+Earthquake,1995,7739
+Extreme temperature,1995,1730
+Extreme weather,1995,3763
+Flood,1995,7956
+Landslide,1995,1521
+Wildfire,1995,29
+All natural disasters,1996,14708
+Earthquake,1996,576
+Extreme temperature,1996,300
+Extreme weather,1996,4581
+Flood,1996,8047
+Landslide,1996,1155
+Volcanic activity,1996,4
+Wildfire,1996,45
+All natural disasters,1997,19450
+Drought,1997,732
+Earthquake,1997,3159
+Extreme temperature,1997,604
+Extreme weather,1997,6150
+Flood,1997,7685
+Landslide,1997,801
+Volcanic activity,1997,53
+Wildfire,1997,266
+All natural disasters,1998,49741
+Drought,1998,20
+Earthquake,1998,9573
+Extreme temperature,1998,3269
+Extreme weather,1998,24935
+Flood,1998,10653
+Landslide,1998,1141
+Wildfire,1998,150
+All natural disasters,1999,70593
+Drought,1999,361
+Earthquake,1999,21869
+Extreme temperature,1999,771
+Extreme weather,1999,12270
+Flood,1999,34807
+Landslide,1999,445
+Wildfire,1999,70
+All natural disasters,2000,9687
+Drought,2000,80
+Earthquake,2000,217
+Extreme temperature,2000,941
+Extreme weather,2000,1354
+Flood,2000,6025
+Landslide,2000,1012
+Mass movement (dry),2000,11
+Wildfire,2000,47
+All natural disasters,2001,30978
+Drought,2001,99
+Earthquake,2001,21348
+Extreme temperature,2001,1787
+Extreme weather,2001,1911
+Flood,2001,5014
+Landslide,2001,786
+Wildfire,2001,33
+All natural disasters,2002,12580
+Drought,2002,588
+Earthquake,2002,1639
+Extreme temperature,2002,3369
+Extreme weather,2002,1382
+Flood,2002,4236
+Landslide,2002,1100
+Mass movement (dry),2002,60
+Volcanic activity,2002,200
+Wildfire,2002,6
+All natural disasters,2003,110036
+Drought,2003,9
+Earthquake,2003,29617
+Extreme temperature,2003,74698
+Extreme weather,2003,1049
+Flood,2003,3910
+Landslide,2003,706
+Wildfire,2003,47
+All natural disasters,2004,241527
+Drought,2004,80
+Earthquake,2004,227290
+Extreme temperature,2004,255
+Extreme weather,2004,6547
+Flood,2004,6982
+Landslide,2004,313
+Mass movement (dry),2004,44
+Volcanic activity,2004,2
+Wildfire,2004,14
+All natural disasters,2005,89657
+Drought,2005,149
+Earthquake,2005,76241
+Extreme temperature,2005,1550
+Extreme weather,2005,5251
+Flood,2005,5754
+Landslide,2005,664
+Volcanic activity,2005,3
+Wildfire,2005,45
+All natural disasters,2006,23491
+Drought,2006,134
+Earthquake,2006,6692
+Extreme temperature,2006,4826
+Extreme weather,2006,4329
+Flood,2006,5843
+Landslide,2006,1638
+Mass movement (dry),2006,11
+Volcanic activity,2006,5
+Wildfire,2006,13
+All natural disasters,2007,16938
+Earthquake,2007,780
+Extreme temperature,2007,1086
+Extreme weather,2007,6035
+Flood,2007,8607
+Landslide,2007,271
+Volcanic activity,2007,11
+Wildfire,2007,148
+All natural disasters,2008,235332
+Drought,2008,8
+Earthquake,2008,87918
+Extreme temperature,2008,1688
+Extreme weather,2008,140985
+Flood,2008,4007
+Landslide,2008,504
+Mass movement (dry),2008,120
+Volcanic activity,2008,16
+Wildfire,2008,86
+All natural disasters,2009,11142
+Earthquake,2009,1893
+Extreme temperature,2009,1386
+Extreme weather,2009,3287
+Flood,2009,3627
+Landslide,2009,723
+Mass movement (dry),2009,36
+Wildfire,2009,190
+All natural disasters,2010,317757
+Drought,2010,20000
+Earthquake,2010,226733
+Extreme temperature,2010,57188
+Extreme weather,2010,1564
+Flood,2010,8356
+Landslide,2010,3427
+Volcanic activity,2010,323
+Wildfire,2010,166
+All natural disasters,2011,30969
+Earthquake,2011,20946
+Extreme temperature,2011,435
+Extreme weather,2011,3103
+Flood,2011,6163
+Landslide,2011,309
+Volcanic activity,2011,3
+Wildfire,2011,10
+All natural disasters,2012,9732
+Earthquake,2012,711
+Extreme temperature,2012,1834
+Extreme weather,2012,3105
+Flood,2012,3544
+Landslide,2012,501
+Mass movement (dry),2012,16
+Wildfire,2012,21
+All natural disasters,2013,21696
+Earthquake,2013,1120
+Extreme temperature,2013,1821
+Extreme weather,2013,8603
+Flood,2013,9836
+Landslide,2013,235
+Mass movement (dry),2013,46
+Wildfire,2013,35
+All natural disasters,2014,7959
+Earthquake,2014,774
+Extreme temperature,2014,1168
+Extreme weather,2014,1424
+Flood,2014,3532
+Landslide,2014,943
+Volcanic activity,2014,102
+Wildfire,2014,16
+All natural disasters,2015,22861
+Drought,2015,35
+Earthquake,2015,9550
+Extreme temperature,2015,7425
+Extreme weather,2015,1270
+Flood,2015,3495
+Landslide,2015,1006
+Mass movement (dry),2015,13
+Wildfire,2015,67
+All natural disasters,2016,8681
+Earthquake,2016,1311
+Extreme temperature,2016,490
+Extreme weather,2016,1760
+Flood,2016,4720
+Landslide,2016,361
+Wildfire,2016,39
+All natural disasters,2017,7341
+Drought,2017,0
+Earthquake,2017,861
+Extreme temperature,2017,133
+Extreme weather,2017,1014
+Flood,2017,3086
+Landslide,2017,2080
+Volcanic activity,2017,0
+Wildfire,2017,167
+All natural disasters,2018,10809
+Drought,2018,0
+Earthquake,2018,4321
+Extreme temperature,2018,536
+Extreme weather,2018,1666
+Flood,2018,2869
+Landslide,2018,275
+Mass movement (dry),2018,17
+Volcanic activity,2018,878
+Wildfire,2018,247
